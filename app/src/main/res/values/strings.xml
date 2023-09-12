@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">채팅앱</string>
     <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="fcm_server_key">AAAA8OWhuAA:APA91bGTXpRFO9lNCYuzQNItLfQjnNdlu4fXS75zEDI-SFzzGFh6CbzGuTSb5MUaFIDR462vB6xNW2ru8dnp13c34aSjJXBcKeMRpb8VISuyhVA2ijfNs0WnnYHzvDVkXgpNVDxyyL6c</string>
 </resources>
